@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![대체 텍스트를 작성합니다!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkJqnCASkr_KzkaJ0LIy_pcWjf8l1fHwiGA&usqp=CAU "그림 설명입니다.")
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkJqnCASkr_KzkaJ0LIy_pcWjf8l1fHwiGA&usqp=CAU "그림 설명입니다.")
